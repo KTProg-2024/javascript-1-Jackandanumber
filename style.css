@@ -2,3 +2,37 @@ p {
 	font-family: Arial;
 	color: red;
 }
+
+#green{
+  background-color: green;
+  color:white;
+  font-weight: bold;
+}
+
+#red{
+  background-color: red;
+  font-weight: bold;
+}
+
+#blue{
+  background-color: blue;
+  color:white;
+  font-weight: bold;
+}
+
+#cat{
+  background-color: black;
+  color:white;
+  font-weight: bold;
+}
+
+#dog{
+  background-color: brown;
+  color:white;
+  font-weight: bold;
+}
+
+#sheep{
+  background-color: white;
+  font-weight: bold;
+}
